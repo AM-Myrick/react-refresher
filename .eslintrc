@@ -4,6 +4,7 @@
     "rules": {
       "prettier/prettier": ["error", { "singleQuote": true, "printWidth": 70 }]
     },
+    "parser": "babel-eslint",
     "parserOptions": {
         "sourceType": "module",
         "ecmaVersion": 2015
